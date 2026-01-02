@@ -17,7 +17,7 @@ APP_NAME = "public-price-tracker"
 EMAIL = "darylllbanal@gmail.com"  # <- change this
 
 # ---- Scope (locked) ----
-COUNTRIES = ["PHL", "VNM", "IDN"]
+COUNTRIES = ["PHL", "VNM", "IDN", "THA", "MYS"]
 COMMODITIES = ["Rice", "Cooking Oil", "Sugar", "Eggs"]
 PRICE_TYPE = "Retail"
 
